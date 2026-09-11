@@ -2,4 +2,4 @@
 
 
 
-# Minecraft LegacyConsole Edition
+# Minecraft Legacy Console Edition
