@@ -4,7 +4,7 @@
 
 
 # Minecraft: Xbox One Edition
-Welcome to Minecraft: Xbox One Edition Github if you want to download and play a pc version of LCE your in the right place soo what are you waiting for play now with no limit
+Welcome to Minecraft: Xbox One Edition Github if you want to download and play a pc version of LCE your in the right place soo what are you waiting for play now with no limit also are goal is mostly to be only xbox one edition and thats we downport and backport updates goal are TU24 and TU14 so play!
 
 # Discord
 If you want to talk about LCE or Minecraft in general join are discord server were you can also see progress on this my project im mostly develop and my friend h4voq so what are you waiting for join [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/uT4EsEcdyS)
