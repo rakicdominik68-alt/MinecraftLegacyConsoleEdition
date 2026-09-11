@@ -1,4 +1,5 @@
-<img width="1920" height="669" alt="image" src="https://github.com/user-attachments/assets/00805210-edff-4710-80dd-c7edf5804bc3" />
+<img width="820" height="144" alt="image" src="https://github.com/user-attachments/assets/0568f40e-3979-42f1-b140-40f803ae1828" />
+
 
 
 # Minecraft LegacyConsole Edition
