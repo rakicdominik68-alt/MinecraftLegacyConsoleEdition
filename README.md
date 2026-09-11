@@ -6,6 +6,8 @@
 # Minecraft: Xbox One Edition
 Welcome to Minecraft: Xbox One Edition Github if you want to download and play a pc version of LCE your in the right place soo what are you waiting for play now with no limit
 
+# Discord
+If you want to talk about LCE or Minecraft in general join
 
 # Download
 Here you can click here to download or you can find a tab on the middle right that says tags and when you click on it you will also see the LCE Builds
