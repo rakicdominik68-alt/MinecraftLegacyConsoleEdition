@@ -7,3 +7,4 @@ Welcome to Minecraft Legacy Console Edition Github if you want to download and p
 
 
 # Download LCE
+Here you can click here to download or you can find a tab on the middle right that says tags and when you click on it you will also see the LCE Builds
