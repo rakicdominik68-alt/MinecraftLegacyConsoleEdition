@@ -3,3 +3,4 @@
 
 
 # Minecraft Legacy Console Edition
+Welcome to Minecraft Legacy Console Edition Github if you want to download and play a pc version of LCE your in the right place soo what are you waiting for play now with no limit
